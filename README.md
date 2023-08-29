@@ -2,10 +2,9 @@
 I am a computer engineering student at the Faculty of Technology of the Federal University of Amazonas (UFAM). I have experience with the Python language and frameworks such as Django, BotCity, Pandas and PyTesseract. Currently, i am studying Robotic Process Automation - RPA. I have also had exposure to Java and developed a simple app using Android Studio for a college project. I am striving to enhance my skills and secure a position in the job market as I have previously worked only as an intern. I am determined to achieve success!
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/victorlucasbbrito)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/victorlucasbbrito)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vlbb@icomp.ufam.edu.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/victorbbrito/)
-
 
 ### Habilidades
 ![Python logo](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow)
@@ -21,13 +20,6 @@ I am a computer engineering student at the Faculty of Technology of the Federal 
 ![Pandas Logo](https://img.shields.io/badge/-Pandas-000?logo=pandas&logoColor=white&style=for-the-badge)
 ![Scrum Logo](https://img.shields.io/badge/-Scrum-000?logo=scrum&logoColor=white&style=for-the-badge)
 ![Android Studio Logo](https://img.shields.io/badge/Android%20Studio-000?logo=android-studio&logoColor=white&style=for-the-badge)
-
-
-
-
-
-
-
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorbbrito&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
