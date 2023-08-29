@@ -5,6 +5,7 @@ I am a computer engineering student at the Faculty of Technology of the Federal 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/victorlucasbbrito)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vlbb@icomp.ufam.edu.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/victorbbrito/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_britovictor)
 
 ### Habilidades
 ![Python logo](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow)
@@ -31,4 +32,3 @@ I am a computer engineering student at the Faculty of Technology of the Federal 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=victorbbrito&repo=PythonImpressionador&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/victorbbrito/PythonImpressionador)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=victorbbrito&repo=AndroidCopaDoMundo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/victorbbrito/AndroidCopaDoMundo)
-
